@@ -1,0 +1,11 @@
+{
+    "name": "edgelabs/symfony-bundle-testing",
+    "description": "Stripped down edition of Symfony2 for executing bundle tests (based on eymengunay/symfony-test)",
+    "require": {
+        "symfony/symfony": "^2.7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {"name": "Steve Todorov","email": "steve.todorov@carlspring.com"}
+    ]
+}
